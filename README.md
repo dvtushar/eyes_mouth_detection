@@ -43,9 +43,9 @@ Experiment with different datasets and sources to test the accuracy and performa
 
 ### Contributing
 Contributions to this project are welcome. If you want to contribute, please follow these guidelines:
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them.
-Submit a pull request with a clear description of your changes.
-Ensure your code follows PEP 8 coding style guidelines.
-We will review your pull request and provide feedback.
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and commit them.
+- Submit a pull request with a clear description of your changes.
+- Ensure your code follows PEP 8 coding style guidelines.
+- We will review your pull request and provide feedback.
